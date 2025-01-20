@@ -7,17 +7,21 @@ Este é um jogo de caça palavras simples implementado em JavaScript.
 - Node.js
 - npm (Node Package Manager)
 
+## Tecnologias Usadas
+- JavaScript
+- Node.js
+
 ## Instalação
 
 1. Clone o repositório ou faça o download dos arquivos.
 
 ```sh
-git clone https://github.com/usuario/nome-do-repositorio.git
+git clone https://github.com/victorhpmelo/Caca-Palavras
 ```
 2. Navegue até o diretório do projeto.
 
 ```sh
-cd ./NomeDoRepositorio
+cd ./Caca-Palavras
 ```
 
 3. Instale as dependências necessárias executando o comando:
@@ -31,7 +35,7 @@ npm install
 1. Execute o jogo com o comando:
 
 ```sh
-node NomeDoArquivo.js
+node CacaPalavras.js
 ```
 
 1. O tabuleiro será exibido no console com palavras escondidas.
@@ -49,7 +53,3 @@ As palavras que você deve encontrar são:
 - JAVASCRIPT
 - HTML
 - PYTHON
-
-## Tecnologias Usadas
-- Node.js
-- JavaScript
