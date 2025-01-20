@@ -38,13 +38,13 @@ npm install
 node cacaPalavra.js
 ```
 
-1. O tabuleiro será exibido no console com palavras escondidas.
+2. O tabuleiro será exibido no console com palavras escondidas.
 
-2. Digite as palavras que você encontrar no tabuleiro.
+3. Digite as palavras que você encontrar no tabuleiro.
 
-3. O jogo termina quando todas as palavras forem encontradas.
+4. O jogo termina quando todas as palavras forem encontradas.
 
-4. Palavras no jogo
+5. Palavras no jogo
 
 As palavras que você deve encontrar são:
 
