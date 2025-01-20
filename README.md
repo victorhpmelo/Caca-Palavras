@@ -35,7 +35,7 @@ npm install
 1. Execute o jogo com o comando:
 
 ```sh
-node CacaPalavras.js
+node cacaPalavra.js
 ```
 
 1. O tabuleiro será exibido no console com palavras escondidas.
