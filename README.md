@@ -1,6 +1,6 @@
 # Caça Palavras
 
-Este é um jogo de caça palavras simples implementado em JavaScript.
+Este é um jogo de caça palavras desenvolvido pelo grupo 5 do programa Start.
 
 ## Requisitos
 
